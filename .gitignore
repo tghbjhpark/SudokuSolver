@@ -83,3 +83,8 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# open_cv_sdk
+/open_cv_sdk
+
+/.idea
